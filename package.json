@@ -3,7 +3,7 @@
   "displayName": "OPENBMC Extension Pack",
   "description": "",
   "version": "0.0.1",
-  "publisher": "Claptrap",
+  "publisher": "claptrap666",
   "engines": {
     "vscode": "^1.77.0"
   },
